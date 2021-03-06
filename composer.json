@@ -1,0 +1,15 @@
+{
+    "name": "uzulla/self-extract.php",
+    "description": "Tool for build self extracting php.",
+    "type": "tool",
+    "require": {
+        "ext-zip": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uzulla",
+            "email": "zishida@gmail.com"
+        }
+    ]
+}
